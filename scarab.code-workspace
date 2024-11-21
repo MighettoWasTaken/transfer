@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../home/vscode/cse220_home/scarab"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../home/vscode/cse220_home"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdlib.h": "c"
+		}
+	}
+}
